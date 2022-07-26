@@ -56,6 +56,7 @@ nav .social ul li{
 nav .social ul li a{
     color: #e7e7e7;
     padding: 5px;
+    border: 2px solid transparent;
     transition: all linear 0.5s;
 }
 nav .social ul li a:hover{
@@ -122,12 +123,12 @@ nav .social ul li a:hover{
 #banner .banner_content button{
     background: none;
     border: 1px solid #ffffff;
-    padding: 10px 10px;
+    padding: 15px 10px;
     transition: all linear 0.5s;
 }
 #banner .banner_content button:hover{
     background: #0872b9;
-    border: 0;
+    border: 1px solid #0872b9;
 }
 #banner .banner_content button a{
     font-family: 'Oswald', sans-serif;
