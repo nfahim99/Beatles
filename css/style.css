@@ -123,7 +123,7 @@ nav .social ul li a:hover{
 #banner .banner_content button{
     background: none;
     border: 1px solid #ffffff;
-    padding: 15px 10px;
+    padding: 10px 20px;
     transition: all linear 0.5s;
 }
 #banner .banner_content button:hover{
